@@ -1,7 +1,8 @@
 # ToDoList
+![lists-gdb937aa26_1920](https://user-images.githubusercontent.com/46621957/165875070-f9715647-c359-4897-858f-3656eb8cf99b.jpg)
+
 ### 프로젝트 주제
   오늘의 일정 관리 시스템
-  ![lists-gdb937aa26_1920](https://user-images.githubusercontent.com/46621957/165875070-f9715647-c359-4897-858f-3656eb8cf99b.jpg)
 ### 프로젝트 소개
   - 당일 일정을 적고 관리할 수 있는 프로그램
 ### 기능설명
